@@ -1,4 +1,4 @@
-module go-auth0-scopes
+module github.com/colwill/go-auth0-scopes
 
 go 1.21
 
